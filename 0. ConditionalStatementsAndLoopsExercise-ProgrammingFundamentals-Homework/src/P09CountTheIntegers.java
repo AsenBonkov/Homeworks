@@ -1,14 +1,23 @@
 import java.util.Scanner;
 
+import javax.management.Attribute;
 public class P09CountTheIntegers {
+
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
 
-        for (int i = 1; i <= 100; i++) {
-            Object obek = scanner.nextLine();
-            if (obek.equals("")){
-                break;
+        int i = 1;
+
+        try {
+            while (true){
+                int n = Integer.parseInt(scanner.nextLine());
+                i++;
             }
+        }catch (Exception n){
+            System.out.println(i-1);
         }
+
+
     }
 }
