@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-import javax.management.Attribute;
 public class P09CountTheIntegers {
 
     public static void main(String[] args) {

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab35b967-9a71-4c78-965d-dd2422e1f2f3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/P05WordsInPlural.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/P09CountTheIntegers.java" afterPath="$PROJECT_DIR$/src/P09CountTheIntegers.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +17,19 @@
       <file leaf-file-name="P09CountTheIntegers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/P09CountTheIntegers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="462">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P06IntervalOfNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/P06IntervalOfNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -30,14 +37,14 @@
       <file leaf-file-name="P10TriangleOfNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/P10TriangleOfNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="84">
+              <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P115DifferentNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P115DifferentNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/P115DifferentNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -75,12 +82,13 @@
         <option value="$PROJECT_DIR$/src/P07CakeIngredients.java" />
         <option value="$PROJECT_DIR$/src/P08CaloriesCounter.java" />
         <option value="$PROJECT_DIR$/src/P10TriangleOfNumbers.java" />
-        <option value="$PROJECT_DIR$/src/P09CountTheIntegers.java" />
         <option value="$PROJECT_DIR$/src/P05WordsInPlural.java" />
+        <option value="$PROJECT_DIR$/src/P115DifferentNumbers.java" />
+        <option value="$PROJECT_DIR$/src/P09CountTheIntegers.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="50" />
     <option name="y" value="51" />
     <option name="width" value="1851" />
@@ -104,8 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,13 +128,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -330,7 +339,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="50" y="51" width="1851" height="885" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -344,7 +353,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117839605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -372,9 +381,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P10TriangleOfNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P115DifferentNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P09CountTheIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -394,10 +425,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P05WordsInPlural.java">
+    <entry file="file://$PROJECT_DIR$/src/P05WordsInPlural.java" />
+    <entry file="file://$PROJECT_DIR$/src/P09CountTheIntegers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -406,67 +438,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P09CountTheIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P01ChooseADrink.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P02ChooseADring2.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P04Hotel.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P03RestaurantDiscount.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P06IntervalOfNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P07CakeIngredients.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P08CaloriesCounter.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P10TriangleOfNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P09CountTheIntegers.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P01ChooseADrink.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P02ChooseADring2.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P03RestaurantDiscount.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P04Hotel.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P06IntervalOfNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P07CakeIngredients.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P08CaloriesCounter.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P09CountTheIntegers.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P10TriangleOfNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P01ChooseADrink.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P02ChooseADring2.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P03RestaurantDiscount.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P04Hotel.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P06IntervalOfNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P07CakeIngredients.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P10TriangleOfNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P08CaloriesCounter.java" />
-    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P09CountTheIntegers.java" />
-    <entry file="file://$PROJECT_DIR$/src/P10TriangleOfNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P09CountTheIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P01ChooseADrink.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P02ChooseADring2.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P04Hotel.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P03RestaurantDiscount.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P06IntervalOfNumbers.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P07CakeIngredients.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P08CaloriesCounter.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P10TriangleOfNumbers.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P09CountTheIntegers.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P01ChooseADrink.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P02ChooseADring2.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P03RestaurantDiscount.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P04Hotel.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P06IntervalOfNumbers.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P07CakeIngredients.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P08CaloriesCounter.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P09CountTheIntegers.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P10TriangleOfNumbers.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P01ChooseADrink.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P02ChooseADring2.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P03RestaurantDiscount.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P04Hotel.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P06IntervalOfNumbers.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P07CakeIngredients.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P10TriangleOfNumbers.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P08CaloriesCounter.java" />
+    <entry file="file://$PROJECT_DIR$/../ConditionalStatementsAndLoopsExercise-ProgrammingFundamentals/src/P09CountTheIntegers.java" />
+    <entry file="file://$PROJECT_DIR$/src/P05WordsInPlural.java" />
     <entry file="file://$PROJECT_DIR$/src/P115DifferentNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -475,10 +478,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P05WordsInPlural.java">
+    <entry file="file://$PROJECT_DIR$/src/P10TriangleOfNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="84">
+          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P09CountTheIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P06IntervalOfNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
