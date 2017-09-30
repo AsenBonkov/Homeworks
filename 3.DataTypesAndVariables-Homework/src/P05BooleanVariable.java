@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class P05WordsInPlural {
+public class P05BooleanVariable {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String word = scanner.nextLine();
+        String boolean1 = scanner.nextLine();
 
-        if (String.)
+
     }
 }
