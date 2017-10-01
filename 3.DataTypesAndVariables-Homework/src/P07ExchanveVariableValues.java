@@ -1,7 +1,5 @@
-
-public class P07CakeIngredients {
+public class P07ExchanveVariableValues {
     public static void main(String[] args) {
-
 
         int input1 = 5;
         int input2 = 10;
@@ -14,7 +12,5 @@ public class P07CakeIngredients {
         input2 = reminder;
 
         System.out.println(String.format("After:%na = %d%nb = %d", input1, reminder));
-
-
     }
 }
