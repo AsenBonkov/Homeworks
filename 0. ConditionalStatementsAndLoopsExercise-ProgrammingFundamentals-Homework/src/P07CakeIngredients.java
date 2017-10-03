@@ -3,18 +3,43 @@ public class P07CakeIngredients {
     public static void main(String[] args) {
 
 
-        int input1 = 5;
-        int input2 = 10;
+        long number = int.Parse(Console.ReadLine());
+        try
+        {
 
-        System.out.println(String.format("Before:%na = %d%nb = %d", input1, input2));
-
-        int reminder = input1;
-
-        input1 = input2;
-        input2 = reminder;
-
-        System.out.println(String.format("After:%na = %d%nb = %d", input1, reminder));
-
-
+            Console.WriteLine($"{number} can fit in:");
+            if (number >= sbyte.MinValue && number <= sbyte.MaxValue)
+            {
+                Console.WriteLine("* sbyte");
+            }
+            if (number >= byte.MinValue && number <= byte.MaxValue)
+            {
+                Console.WriteLine("* byte");
+            }
+            if (number >= short.MinValue && number <= short.MaxValue)
+            {
+                Console.WriteLine("* short");
+            }
+            if (number >= ushort.MinValue && number <= ushort.MaxValue)
+            {
+                Console.WriteLine("* ushort");
+            }
+            if (number >= int.MinValue && number <= int.MaxValue)
+            {
+                Console.WriteLine("* int");
+            }
+            if (number >= uint.MinValue && number <= uint.MaxValue)
+            {
+                System.out.println(("* uint"));
+            }
+            if (number >= long.MinValue && number <= long.MaxValue)
+            {
+                System.out.println(("* long"));
+            }
+        }
+        catch (Exception)
+        {
+            System.out.printf("%d can't fit in any type", number);
+        }
     }
 }
